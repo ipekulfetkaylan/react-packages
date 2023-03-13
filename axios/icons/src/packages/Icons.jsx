@@ -14,7 +14,7 @@ function Icons() {
       <FaBeer size="60" color="green"/>
       <FaMagento size="60" color="pink"/>
       <IconContext.Provider value={{color: "pink", size:"20px"}}>
-        {/* eger paketlerin hepsini kullanmak istiyorsak ıconContextten alıyoruz ve provider ekliyoruz */}
+        {/* eger paketlerin hepsini kullanmak istiyorsak ıconContextten alıyoruz ve provider ekliyoruz. Eğer hepsine ayrı ayrı style vermezsen provide içine verdiğin stiller etkili olacak */}
         <p>
             <IoIosAlert style={{color: "red", size:"30px"}}/>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi iure, velit nam eum pariatur rerum quaerat exercitationem aspernatur maiores id fugit 
