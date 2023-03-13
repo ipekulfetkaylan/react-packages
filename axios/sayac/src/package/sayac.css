@@ -1,5 +1,9 @@
 body{
     background-color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
 }
 .kutular{
     display: flex;
@@ -16,6 +20,7 @@ body{
     font-size: 60px;
     line-height: 250px;
     margin-left: 10px;
+    text-align: center;
 }
 .kutu1{
     background-color: green;
@@ -25,4 +30,9 @@ body{
 }
 .kutu3{
     background-color: peru;
+}
+.butonlar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
