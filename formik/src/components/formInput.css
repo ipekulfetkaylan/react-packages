@@ -32,8 +32,8 @@ button:disabled{
     cursor:no-drop;
 }
 .form-input span{
-    color: tomato;
+    color: red;
 }
 .input-error{
-    border: 1px solid tomato !important;
+    border: 1px solid red !important;
 }
