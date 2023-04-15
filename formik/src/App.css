@@ -1,0 +1,13 @@
+.App h1{
+  text-align: center;
+ 
+}
+.App{
+  width: 450px;
+  height: 500px;
+  background-color: goldenrod;
+  border-radius: 35px;
+  padding: 25px;
+ 
+}
+
